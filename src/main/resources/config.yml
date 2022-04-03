@@ -1,0 +1,12 @@
+Rename:
+  Blocked-Item-Materials:
+    - MOB_SPAWNER
+    - DIAMOND
+    - BLAZE_ROD
+  Blocked-Item-Names:
+    - test
+    - test1
+    - BLAZE_ROD
+  Blocked-Item-Lores:
+    - test
+    - test1

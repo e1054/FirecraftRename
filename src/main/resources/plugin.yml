@@ -1,0 +1,4 @@
+name: FirecraftRename
+version: '${project.version}'
+main: Com.FirecraftRename.FirecraftRename
+authors: [ Bondegaard ]
